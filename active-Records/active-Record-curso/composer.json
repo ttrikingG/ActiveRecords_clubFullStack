@@ -1,0 +1,19 @@
+{
+    "name": "tomtom/active-record-curso",
+    "authors": [
+        {
+            "name": "ttricking",
+            "email": "tom_tricking.on@hotmail.com"
+        }
+    ],
+    "description": "activeRecords",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\":"app"
+        },
+        "files": [
+            "app/helpers/helpers.php"
+        ]
+    }
+}
